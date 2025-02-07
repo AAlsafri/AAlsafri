@@ -1,7 +1,5 @@
 # Hi, I'm Abdul 😀👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;🧙‍♂️Turning+Logic+into+Digital+Magic)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&color=33FF33&pause=1000&width=500&lines=📟Full+Stack+Developer;🧙‍♂️Turning+Logic+into+Digital+Magic)](https://git.io/typing-svg)
 **💻 Tech Stack:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
@@ -25,8 +23,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-**📊 GitHub Stats:**
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AAlsafri&theme=tokyonight&hide_border=false)<br/>
 
