@@ -1,7 +1,10 @@
 # Hi, I'm Abdul 😀👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&color=2ECC71&pause=1000&width=500&lines=Full+Stack+Developer;Turning+Logic+into+Digital+Magic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&color=2ECC71&pause=1000&width=500&lines=Full+Stack+Developer;Turning+Logic+into+Digital+Magic)](https://git.io/typing-svg) <br/>
+**Currently Working On:**  
+⏳ Data Structures & Algorithms <br/>
+⏳ C# & .NET
 
-**💻 Tech Stack:** <br/>
+**Tech Stack:** <br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
