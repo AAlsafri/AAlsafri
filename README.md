@@ -1,4 +1,4 @@
-**Hi, I'm Abdul**😀👋
+# Hi, I'm Abdul 😀👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&color=2ECC71&pause=1000&width=500&lines=Software+Engineer;Full-Stack+Web+Developer)](https://git.io/typing-svg) <br/>
 **Currently Working On:**  
