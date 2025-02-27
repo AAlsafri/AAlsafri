@@ -1,5 +1,6 @@
-# Hi, I'm Abdul 😀👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&color=2ECC71&pause=1000&width=500&lines=Full+Stack+Developer;Turning+Logic+into+Digital+Magic)](https://git.io/typing-svg) <br/>
+**Hi, I'm Abdul**😀👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&color=2ECC71&pause=1000&width=500&lines=Software+Engineer;Full-Stack+Web+Developer)](https://git.io/typing-svg) <br/>
 **Currently Working On:**  
 ⏳ Data Structures & Algorithms <br/>
 ⏳ C# & .NET
@@ -27,6 +28,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AAlsafri&theme=dark&hide_border=false)<br/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelGalo&color=green)
